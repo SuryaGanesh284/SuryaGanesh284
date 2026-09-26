@@ -1,27 +1,38 @@
 <h1 align="center">Hi there, I'm Surya Ganesh Reddy! 👋</h1>
 
 <h3 align="center">
-  Computer Science Undergraduate | Java Full Stack Developer | AI Enthusiast
+  Aspiring Software Engineer | Java Full Stack Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
-  <i>Building practical applications, solving problems, and continuously learning new technologies.</i>
+  <i>Building full-stack applications, exploring AI, and solving real-world problems through technology.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SuryaGanesh284">
+    <img src="https://img.shields.io/badge/GitHub-SuryaGanesh284-181717?style=flat-square&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/suryaganeshsabbella10/">
+    <img src="https://img.shields.io/badge/LinkedIn-Surya%20Ganesh%20Reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science undergraduate passionate about software development,
-Artificial Intelligence, and building practical applications.
+I'm a Computer Science undergraduate and aspiring software engineer focused on
+building practical, scalable, and user-oriented applications.
 
-- 💻 Interested in Java Full Stack Development
-- 🤖 Exploring Generative AI, LLMs, RAG and AI-powered applications
-- 🧩 Currently strengthening my Data Structures & Algorithms skills
-- 🌐 Building full-stack applications using React and backend technologies
-- 🚀 Interested in Backend Engineering and REST API development
-- 🏆 Enjoy participating in hackathons and collaborative projects
-- 📚 Always learning and experimenting with new technologies
+- 💻 Focused on **Java Full Stack and MERN Stack Development**
+- 🌐 Experienced in building **responsive web applications and RESTful APIs**
+- ⚙️ Working with **React.js, Node.js, Express.js, Spring Boot and FastAPI**
+- 🤖 Exploring **LLMs, AI Chatbots and Retrieval-Augmented Generation (RAG)**
+- 🗄️ Interested in **database-driven application development**
+- 🐳 Learning and applying **Docker and cloud technologies**
+- 🏆 Participated in the **JPMorgan Chase Code for Good 2026 Hackathon**
+- 🧩 Currently strengthening my **Data Structures & Algorithms** skills
+- 🚀 Interested in building software that solves practical problems
 
 ---
 
@@ -29,16 +40,16 @@ Artificial Intelligence, and building practical applications.
 
 <p align="center">
 
-<b>Java</b> &nbsp; | &nbsp;
+<b>Java Full Stack</b> &nbsp; | &nbsp;
+<b>MERN Stack</b> &nbsp; | &nbsp;
+<b>React.js</b> &nbsp; | &nbsp;
 <b>Spring Boot</b> &nbsp; | &nbsp;
-<b>React</b> &nbsp; | &nbsp;
-<b>MERN</b> &nbsp; | &nbsp;
 <b>REST APIs</b> &nbsp; | &nbsp;
-<b>DSA</b> &nbsp; | &nbsp;
+<b>Backend Development</b> &nbsp; | &nbsp;
 <b>Generative AI</b> &nbsp; | &nbsp;
 <b>LLMs</b> &nbsp; | &nbsp;
 <b>RAG</b> &nbsp; | &nbsp;
-<b>Backend Engineering</b>
+<b>DSA</b>
 
 </p>
 
@@ -51,27 +62,27 @@ Artificial Intelligence, and building practical applications.
 
 <td align="center" width="50%">
 
-<h3>👨‍💻 Languages</h3>
+<h3>💻 Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=c,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,mysql" />
 
 </td>
 
 <td align="center" width="50%">
 
-<h3>🤖 AI / Machine Learning</h3>
+<h3>🤖 AI / GenAI</h3>
 
 <img src="https://skillicons.dev/icons?i=python" />
 
 <br><br>
 
-<b>Generative AI</b> • <b>LLMs</b> • <b>RAG</b>
+<b>LLMs</b> • <b>AI Chatbots</b>
 <br>
-<b>AI Agents</b> • <b>Prompt Engineering</b>
+<b>Retrieval-Augmented Generation (RAG)</b>
 
 </td>
 
@@ -83,19 +94,25 @@ Artificial Intelligence, and building practical applications.
 
 <h3>🎨 Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js" />
+
+<br><br>
+
+<b>Material-UI</b>
 
 </td>
 
 <td align="center" width="50%">
 
-<h3>⚙️ Backend</h3>
+<h3>⚙️ Backend & Frameworks</h3>
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask" />
 
 <br><br>
 
-<b>REST APIs</b> • <b>Spring Boot</b> • <b>Node.js</b>
+<b>REST APIs</b> • <b>Spring Boot</b>
+<br>
+<b>Node.js</b> • <b>Express.js</b>
 
 </td>
 
@@ -105,17 +122,25 @@ Artificial Intelligence, and building practical applications.
 
 <td align="center" width="50%">
 
-<h3>🗄️ Database</h3>
+<h3>🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+<b>SQL</b> • <b>MongoDB</b>
 
 </td>
 
 <td align="center" width="50%">
 
-<h3>🔧 Tools & Platforms</h3>
+<h3>🔧 Developer Tools & Cloud</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
+
+<br><br>
+
+<b>PyCharm</b> • <b>Eclipse</b> • <b>Visual Studio</b>
 
 </td>
 
@@ -127,94 +152,146 @@ Artificial Intelligence, and building practical applications.
 
 # 🚀 Featured Projects
 
-## 🤖 AI Chatbot
+## 🤖 AI Chatbot Application
 
-AI-powered chatbot application with a modern frontend and backend architecture.
+A full-stack AI chatbot application designed for interactive conversational
+experiences.
 
-**Technologies:**
+### Key Highlights
 
-`Python` `React` `LLMs` `APIs`
+- ⚛️ React.js frontend with a Python-based backend
+- ⚡ FastAPI backend services
+- 🧠 LLM-based conversational responses
+- 💬 Conversation memory
+- 🔎 Web search capabilities
+- 🐳 Dockerized backend
+- 🧩 Modular architecture for chatbot processing and frontend-backend communication
+
+**Tech Stack:**
+
+`Python` `FastAPI` `React.js` `LLM` `Web Search` `Docker`
 
 🔗 **Repository:**  
 https://github.com/SuryaGanesh284/AI-chatbot-template
 
 ---
 
-## 🏆 Team 3 Mock Hackathon
+## 📚 Student Feedback Management System
 
-Collaborative full-stack hackathon project developed using modern web technologies.
+A full-stack role-based application designed to manage structured academic
+feedback workflows.
 
-**Technologies:**
+### Key Highlights
 
-`React` `JavaScript` `Node.js` `Express` `MongoDB`
+- 👥 Role-based workflows for students, faculty and administrators
+- 🔐 Authentication and role-based access control
+- ⚙️ RESTful backend APIs
+- 🗄️ Relational database integration
+- 📊 Structured feedback data management
+- 🔒 Focus on secure data handling and transaction-oriented architecture
 
-🔗 **Repository:**  
-https://github.com/rampranai-0104/Team-3-Mock-Hackathon-
+**Tech Stack:**
 
----
+`Java` `SQL` `REST APIs` `Postman`
 
-## 🎨 Taru Project
-
-Collaborative hackathon project focused on developing a practical full-stack web solution.
-
-**Technologies:**
-
-`React` `JavaScript` `Full Stack Development`
-
-🔗 **Repository:**  
-https://github.com/SuryaGanesh284/Taru_PS
+🔗 **Repository:**
+https://github.com/SuryaGanesh284/Student-Feedback-System
 
 ---
 
-# 📊 GitHub Stats
+## 🎓 Placement Tracking Web Application
 
-<p align="center">
+A role-based web application designed to streamline campus placement tracking.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuryaGanesh284&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### Key Highlights
 
-</p>
+- 👥 Multiple user roles
+- 🔐 Authentication-driven UI workflows
+- 📊 Interactive dashboards
+- 📱 Responsive frontend experience
+- 🎨 Focus on accessibility and organized placement data
 
-<p align="center">
+**Tech Stack:**
 
-<img src="https://streak-stats.demolab.com?user=SuryaGanesh284&theme=tokyonight&hide_border=true" />
-
-</p>
+`React.js` `JavaScript` `HTML` `CSS`
 
 ---
 
-# 🤝 Connect With Me
+# 🏆 Experience & Achievements
 
-<p align="center">
+### 💼 JPMorgan Chase Code for Good 2026
 
-<a href="https://github.com/SuryaGanesh284">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Participated in the **JPMorgan Chase Code for Good 2026 Hackathon**, collaborating
+with a team to develop and present a full-stack solution for a real-world
+problem statement.
 
-<a href="https://www.linkedin.com/in/suryaganeshsabbella10/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Areas of contribution:**
 
-</p>
+`Full Stack Development` • `React.js` • `AI` • `Team Collaboration`
+
+---
+
+# 🎓 Education
+
+### K L University — Vaddeswaram, Vijayawada
+
+**B.Tech in Computer Science**
+
+📅 July 2024 – May 2028
+
+**CGPA: 9.53 / 10**
+
+**Relevant Coursework:**
+
+`Data Structures & Algorithms` •
+`Object Oriented Programming` •
+`Database Management Systems` •
+`Operating Systems` •
+`Computer Networks` •
+`Software Engineering` •
+`Full Stack Development`
 
 ---
 
 # 📚 Currently Learning & Exploring
 
 ```text
-AI / ML
-   ├── Machine Learning
-   ├── Generative AI
+Software Development
+   ├── Java Full Stack Development
+   ├── Spring Boot
+   ├── REST APIs
+   └── Backend Engineering
+
+AI / GenAI
    ├── Large Language Models
-   ├── RAG
-   └── AI Agents
+   ├── AI Chatbots
+   └── Retrieval-Augmented Generation (RAG)
 
 Programming
    ├── Data Structures & Algorithms
    ├── Java
    └── Python
 
-Development
-   ├── Full-Stack Development
-   ├── Spring Boot
-   ├── REST APIs
-   └── Backend Engineering
+Cloud & DevOps
+   ├── Docker
+   └── AWS Cloud Platform
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/SuryaGanesh284">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/suryaganeshsabbella10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
